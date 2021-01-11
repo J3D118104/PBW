@@ -1,0 +1,154 @@
+.mediaViewInfo {
+	--web-view-name: Custom Size – 1;
+	--web-view-id: Custom_Size__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Custom_Size__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Custom_Size__1 {
+	position: absolute;
+	width: 1280px;
+	height: 2160px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Custom Size – 1;
+	--web-view-id: Custom_Size__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#ID5 {
+	position: absolute;
+	width: 1280px;
+	height: 2160px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Background {
+	position: absolute;
+	width: 1280px;
+	height: 2160px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Layer_4 {
+	position: absolute;
+	width: 1280px;
+	height: 2160px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Persegi {
+	position: absolute;
+	width: 773px;
+	height: 406px;
+	left: 65px;
+	top: 320px;
+	overflow: visible;
+}
+#s_copy {
+	position: absolute;
+	width: 773px;
+	height: 406px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Persegi_Panjang {
+	position: absolute;
+	width: 773px;
+	height: 406px;
+	left: 423px;
+	top: 775px;
+	overflow: visible;
+}
+#p {
+	position: absolute;
+	width: 773px;
+	height: 406px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#p_x_l {
+	position: absolute;
+	width: 41px;
+	height: 20px;
+	left: 500px;
+	top: 265px;
+	overflow: visible;
+}
+#Segi3 {
+	position: absolute;
+	width: 773px;
+	height: 406px;
+	left: 98px;
+	top: 1220px;
+	overflow: visible;
+}
+#a {
+	position: absolute;
+	width: 773px;
+	height: 406px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Lingkaran {
+	position: absolute;
+	width: 773px;
+	height: 406px;
+	left: 445px;
+	top: 1681px;
+	overflow: visible;
+}
+#r {
+	position: absolute;
+	width: 773px;
+	height: 406px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Header {
+	position: absolute;
+	width: 564px;
+	height: 95px;
+	left: 700px;
+	top: 15px;
+	overflow: visible;
+}
+#MENU_AWAL {
+	position: absolute;
+	width: 201px;
+	height: 22px;
+	left: 982px;
+	top: 54px;
+	overflow: visible;
+}
+#KEMBALI_copy {
+	position: absolute;
+	width: 152px;
+	height: 22px;
+	left: 796px;
+	top: 54px;
+	overflow: visible;
+}
+#Materi_Dasar_Bangun_Datar_ {
+	position: absolute;
+	width: 666px;
+	height: 184px;
+	left: 307px;
+	top: 123px;
+	overflow: visible;
+}

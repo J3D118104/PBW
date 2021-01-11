@@ -1,0 +1,212 @@
+.mediaViewInfo {
+    --web-view-name: Custom Size – 1;
+    --web-view-id: Custom_Size__1;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+
+:root {
+    --web-view-ids: Custom_Size__1;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+
+p {
+    position: absolute;
+    top: 186px;
+    left: 17%;
+    font-size: 80px;
+}
+
+.btn {
+    position: absolute;
+    width: 259px;
+    height: 90px;
+    left: 443px;
+    top: 469px;
+    overflow: visible;
+    font-size: 0%;
+    color: white;
+    font-size: 30px;
+    background: url("reset.png");
+}
+
+#Custom_Size__1 {
+    position: absolute;
+    width: 1280px;
+    height: 720px;
+    background-color: rgba(255, 255, 255, 1);
+    overflow: hidden;
+    --web-view-name: Custom Size – 1;
+    --web-view-id: Custom_Size__1;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+
+#ID3 {
+    position: absolute;
+    width: 1280px;
+    height: 763px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+#Background {
+    position: absolute;
+    width: 1280px;
+    height: 763px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+#Layer_1 {
+    position: absolute;
+    width: 1280px;
+    height: 763px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+#Pilih__Bangun_Datar {
+    position: absolute;
+    width: 240px;
+    height: 425px;
+    left: 45px;
+    top: 25px;
+    overflow: visible;
+}
+
+#Pilih__Rumus {
+    position: absolute;
+    width: 240px;
+    height: 425px;
+    left: 308px;
+    top: 25px;
+    overflow: visible;
+}
+
+#Input__Data {
+    position: absolute;
+    width: 240px;
+    height: 424px;
+    left: 573px;
+    top: 25px;
+    overflow: visible;
+}
+
+#Input__Data_copy {
+    position: absolute;
+    width: 240px;
+    height: 424px;
+    left: 573px;
+    top: 25px;
+    overflow: visible;
+}
+
+#Hasil {
+    position: absolute;
+    width: 240px;
+    height: 424px;
+    left: 999px;
+    top: 253px;
+    overflow: visible;
+}
+
+#form_bangun {
+    position: absolute;
+    width: 155px;
+    height: 53px;
+    left: 88px;
+    top: 209px;
+    overflow: visible;
+    color: #161253;
+    font-weight: bold;
+    font-size: large;
+}
+
+#form_rumus {
+    position: absolute;
+    width: 154px;
+    height: 53px;
+    left: 352px;
+    top: 209px;
+    overflow: visible;
+    color: #161253;
+    font-weight: bold;
+    font-size: large;
+}
+
+#data {
+    position: absolute;
+    width: 155px;
+    height: 53px;
+    left: 622px;
+    top: 209px;
+    overflow: visible;
+    color: #161253;
+    font-weight: bold;
+    font-size: large;
+}
+
+#data_copy {
+    position: absolute;
+    width: 155px;
+    height: 53px;
+    left: 622px;
+    top: 274px;
+    overflow: visible;
+    color: #161253;
+    font-weight: bold;
+    font-size: large;
+}
+
+#Layer_2 {
+    position: absolute;
+    width: 144px;
+    height: 164px;
+    left: 912px;
+    top: 522px;
+    overflow: visible;
+    color: #161253;
+    font-weight: bold;
+    font-size: large;
+}
+
+#data_copy_2 {
+    position: absolute;
+    width: 155px;
+    height: 52px;
+    left: 622px;
+    top: 353px;
+    overflow: visible;
+    color: #161253;
+    font-weight: bold;
+    font-size: large;
+}
+
+#Hitung {
+    position: absolute;
+    width: 264px;
+    height: 90px;
+    left: 164px;
+    top: 469px;
+    overflow: visible;
+    font-size: 0%;
+}
+
+#Kembali {
+    position: absolute;
+    width: 207px;
+    height: 50px;
+    left: 1053px;
+    top: 14px;
+    overflow: visible;
+}

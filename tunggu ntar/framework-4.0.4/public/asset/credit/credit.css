@@ -1,0 +1,74 @@
+.mediaViewInfo {
+	--web-view-name: Custom Size – 1;
+	--web-view-id: Custom_Size__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Custom_Size__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Custom_Size__1 {
+	position: absolute;
+	width: 1280px;
+	height: 720px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Custom Size – 1;
+	--web-view-id: Custom_Size__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#ID7 {
+	position: absolute;
+	width: 1280px;
+	height: 720px;
+	left: 8px;
+	top: 0px;
+	overflow: visible;
+}
+#Background {
+	position: absolute;
+	width: 1280px;
+	height: 720px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Layer_1 {
+	position: absolute;
+	width: 1280px;
+	height: 720px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Credit {
+	position: absolute;
+	width: 214px;
+	height: 53px;
+	left: 533px;
+	top: 122px;
+	overflow: visible;
+}
+#Yoga_Pangestu_________________ {
+	position: absolute;
+	width: 775px;
+	height: 294px;
+	left: 253px;
+	top: 299px;
+	overflow: visible;
+}
+#Kembali {
+	position: absolute;
+	width: 313px;
+	height: 76px;
+	left: 949px;
+	top: 15px;
+	overflow: visible;
+}

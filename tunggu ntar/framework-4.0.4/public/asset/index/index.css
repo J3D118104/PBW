@@ -1,0 +1,122 @@
+.mediaViewInfo {
+	--web-view-name: SPRK_default_preset_name_custom – 1;
+	--web-view-id: SPRK_default_preset_name_custom__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: SPRK_default_preset_name_custom__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#SPRK_default_preset_name_custom__1 {
+	position: absolute;
+	width: 1280px;
+	height: 720px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: SPRK_default_preset_name_custom – 1;
+	--web-view-id: SPRK_default_preset_name_custom__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#ID1 {
+	position: absolute;
+	width: 1280px;
+	height: 763px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Background {
+	position: absolute;
+	width: 1280px;
+	height: 763px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Layer_1_copy {
+	position: absolute;
+	width: 666px;
+	height: 428px;
+	left: 564px;
+	top: 226px;
+	overflow: visible;
+}
+#Layer_1 {
+	position: absolute;
+	width: 666px;
+	height: 429px;
+	left: 546px;
+	top: 218px;
+	overflow: visible;
+}
+#Tunggu_Ntar {
+	position: absolute;
+	width: 284px;
+	height: 132px;
+	left: 88px;
+	top: 204px;
+	overflow: visible;
+}
+#Web_ini_menyediakan_cara_mudah {
+	position: absolute;
+	width: 345px;
+	height: 70px;
+	left: 88px;
+	top: 402px;
+	overflow: visible;
+}
+#MULAI {
+	position: absolute;
+	width: 224px;
+	height: 65px;
+	left: 97px;
+	top: 564px;
+	overflow: visible;
+}
+#Logo {
+	position: absolute;
+	width: 170px;
+	height: 49px;
+	left: 25px;
+	top: 20px;
+	overflow: visible;
+}
+#Header {
+	position: absolute;
+	width: 530px;
+	height: 63px;
+	left: 375px;
+	top: 20px;
+	overflow: visible;
+}
+#HOME {
+	position: absolute;
+	width: 73px;
+	height: 15px;
+	left: 464px;
+	top: 45px;
+	overflow: visible;
+}
+#CREDIT {
+	position: absolute;
+	width: 87px;
+	height: 15px;
+	left: 588px;
+	top: 45px;
+	overflow: visible;
+}
+#FIND_US {
+	position: absolute;
+	width: 93px;
+	height: 15px;
+	left: 730px;
+	top: 45px;
+	overflow: visible;
+}

@@ -1,0 +1,122 @@
+.mediaViewInfo {
+	--web-view-name: Custom Size – 1;
+	--web-view-id: Custom_Size__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Custom_Size__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Custom_Size__1 {
+	position: absolute;
+	width: 1280px;
+	height: 720px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Custom Size – 1;
+	--web-view-id: Custom_Size__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#ID6 {
+	position: absolute;
+	width: 1280px;
+	height: 768px;
+	left: 0px;
+	top: -5px;
+	overflow: visible;
+}
+#Background {
+	position: absolute;
+	width: 1280px;
+	height: 720px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Find_Us_on_Instagram {
+	position: absolute;
+	width: 1280px;
+	height: 768px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Kembali {
+	position: absolute;
+	width: 203px;
+	height: 49px;
+	left: 1064px;
+	top: 11px;
+	overflow: visible;
+}
+#heyja_ {
+	position: absolute;
+	width: 84px;
+	height: 21px;
+	left: 610px;
+	top: 392px;
+	overflow: visible;
+}
+#bagoyp {
+	position: absolute;
+	width: 91px;
+	height: 21px;
+	left: 342px;
+	top: 392px;
+	overflow: visible;
+}
+#broel_ {
+	position: absolute;
+	width: 78px;
+	height: 19px;
+	left: 101px;
+	top: 392px;
+	overflow: visible;
+}
+#bgndysf {
+	position: absolute;
+	width: 99px;
+	height: 21px;
+	left: 224px;
+	top: 649px;
+	overflow: visible;
+}
+#flametronis {
+	position: absolute;
+	width: 132px;
+	height: 19px;
+	left: 473px;
+	top: 649px;
+	overflow: visible;
+}
+#Layer_8 {
+	position: absolute;
+	width: 201px;
+	height: 254px;
+	left: 878px;
+	top: 143px;
+	overflow: visible;
+}
+#arjalbr {
+	position: absolute;
+	width: 89px;
+	height: 20px;
+	left: 764px;
+	top: 649px;
+	overflow: visible;
+}
+#daffahanann {
+	position: absolute;
+	width: 142px;
+	height: 19px;
+	left: 1003px;
+	top: 649px;
+	overflow: visible;
+}
